@@ -1,6 +1,6 @@
 const api = [
   {
-    picture: "pictures/mot-con-gio-bui.jpg",
+    picture: "mot-con-gio-bui.jpg",
     title: "Một cơn gió bụi",
     author: "Trần Trọng Kim",
     review:
@@ -247,3 +247,5 @@ const api = [
       "	I've just finished the audio version of this book and I must confess that I don't quite understand many things that are mentioned in the book due to the fact that the author's way of writing is really unfamiliar to a modern reader like me. However, listening to this book is a pleasure although the quality of the audio is not so good. I remember thinking about happiness and how futile it is to persue happiness and there could be good in suffering and terrible things."
   }
 ];
+
+export default api;
