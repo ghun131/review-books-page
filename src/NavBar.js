@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Navbar, Nav, NavItem, Glyphicon } from "react-bootstrap";
+import { Navbar, Nav, NavItem, Glyphicon, Button } from "react-bootstrap";
 
 class NavBar extends Component {
   render() {
@@ -20,13 +20,13 @@ class NavBar extends Component {
                 <h3>Contact</h3>
                 <ul className="list-unstyled">
                   <li>
-                    <a>Twitter</a>
+                    <Button bsStyle="link">Twitter</Button>
                   </li>
                   <li>
-                    <a>Facebook</a>
+                    <Button bsStyle="link">Facebook</Button>
                   </li>
                   <li>
-                    <a>Email me</a>
+                    <Button bsStyle="link">Email me!</Button>
                   </li>
                 </ul>
               </NavItem>

@@ -1,16 +1,17 @@
 import React from "react";
-import { ButtonToolbar, Button } from "react-bootstrap";
+import { Jumbotron } from "react-bootstrap";
 
 const IntroductionText = () => {
   return (
-    <div>
-      <h1>A big heading</h1>
-      <p>A short description about the reasons why I make this app </p>
-      <ButtonToolbar>
-        <Button bsStyle="primary">First action</Button>
-        <Button>Second action</Button>
-      </ButtonToolbar>
-    </div>
+    <Jumbotron>
+      <div className="text-center">
+        <h1>All the books I read</h1>
+        <p>
+          This app is dedicated to collect all of my reviews about all the books
+          I have read over the years
+        </p>
+      </div>
+    </Jumbotron>
   );
 };
 
