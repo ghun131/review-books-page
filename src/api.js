@@ -56,7 +56,7 @@ const api = [
   },
 
   {
-    picture: "daily-relections.jpg",
+    picture: "daily-reflections.jpg",
     title: "Daily Reflections",
     author: "Jim Rohn",
     review:
@@ -64,7 +64,7 @@ const api = [
   },
 
   {
-    picture: "code-dao-ki-su.jpg",
+    picture: "code-dao-ky-su.jpg",
     title: "Code dạo kí sự: Lập trình viên đâu phải chỉ biết code",
     author: "Phạm Huy Hoàng",
     review:
@@ -91,7 +91,7 @@ const api = [
     picture: "viet-nam-su-luoc.jpg",
     title: "Việt Nam Sử Lược",
     author: "Trần Trọng Kim",
-    reivew:
+    review:
       "Sách có góc nhìn tương đối khách quan về nhiều nhân vật lịch sử và giúp cho người đọc nhìn lịch sử Việt Nam như một chuỗi sự kiện có tính liên kết nhân quả. Ấn tượng nhất vẫn là phần thuộc về nhà Trần và khả năng chống giặc Nguyên Mông thời đó đặc biệt là vai trò của Trần Quốc Tuấn trong cuộc kháng chiến. Đây có thể là giai đoạn duy nhất thấy được một nhân vật có thể tạo ra sự ảnh hưởng rất lớn tới lịch sử. Tác giả có nhiều nhận xét sâu sắc cũng như bài học giá trị ví dụ như nếu Hồ Quý Ly có thể trung thành với nhà Lê thì việc đất nước bị nhà Minh đô hộ chưa chắc đã xảy ra hay những nhìn nhận mù quáng của vui Minh Mạng về phương Tây đã gây họa cho dân tộc thế nào."
   },
 
@@ -136,7 +136,7 @@ const api = [
   },
 
    {
-      picture: "the-snowball-warren-buffet-and-the-business-of-life.jpg",
+      picture: "the-snowball-warren-buffett-and-the-business-of-life.jpg",
       title: "The Snowball: Warren Buffett and the Business of Life",
       author: "Alice Schroeder",
       review:
@@ -184,7 +184,7 @@ const api = [
   },
 
    {
-      picture: "man-search-for-meaning.jpg",
+      picture: "man-s-search-for-meaning.jpg",
       title: "Man's Search for Meaning",
       author: "Victor Frankl",
       review:
@@ -200,7 +200,7 @@ const api = [
   },
 
    {
-      piture: "song-hanh-phuc.jpg",
+      picture: "song-hanh-phuc.jpg",
       title: "Sống Hạnh Phúc",
       author: "Dalai Lama XIV",
       review:
