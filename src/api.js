@@ -8,7 +8,7 @@ const api = [
   },
 
   {
-    picture: "pictures/thinking-fast-and-slow.jpg",
+    picture: "thinking-fast-and-slow.jpg",
     title: "Thinking, Fast and Slow",
     author: "Daniel Kahneman",
     review:
@@ -16,7 +16,7 @@ const api = [
   },
 
   {
-    picture: "pictures/the-catcher-in-the-rye.jpg",
+    picture: "the-catcher-in-the-rye.jpg",
     title: "The Catcher in the Rye",
     author: "J.D. Salinger",
     review:
@@ -24,7 +24,7 @@ const api = [
   },
 
   {
-    picture: "pictures/1Q84.jpg",
+    picture: "1Q84.jpg",
     title: "1Q84",
     author: "Haruki Murakami",
     review:
@@ -32,7 +32,7 @@ const api = [
   },
 
   {
-    picture: "pictures/a-study-in-scarlet.jpg",
+    picture: "a-study-in-scarlet.jpg",
     title: "A Study in Scarlet",
     author: "Arthur Conan Doyle",
     review:
@@ -40,7 +40,7 @@ const api = [
   },
 
   {
-    picture: "pictures/toi-noi-gi-khi-toi-noi-ve-chay-bo.jpg",
+    picture: "toi-noi-gi-khi-toi-noi-ve-chay-bo.jpg",
     title: "Tôi nói gì khi tôi nói về chạy bộ",
     author: "Haruki Murakami",
     review:
@@ -48,7 +48,7 @@ const api = [
   },
 
   {
-    picture: "pictures/trai-suc-vat.jpg",
+    picture: "trai-suc-vat.jpg",
     title: "Trại Súc Vật",
     author: " George Orwell",
     review:
@@ -56,7 +56,7 @@ const api = [
   },
 
   {
-    picture: "pictures/daily-relections.jpg",
+    picture: "daily-relections.jpg",
     title: "Daily Reflections",
     author: "Jim Rohn",
     review:
@@ -64,7 +64,7 @@ const api = [
   },
 
   {
-    picture: "pictures/code-dao-ki-su.jpg",
+    picture: "code-dao-ki-su.jpg",
     title: "Code dạo kí sự: Lập trình viên đâu phải chỉ biết code",
     author: "Phạm Huy Hoàng",
     review:
@@ -72,7 +72,7 @@ const api = [
   },
 
   {
-    picture: "pictures/1984.jpg",
+    picture: "1984.jpg",
     title: "1984",
     author: "George Orwell",
     review:
@@ -80,7 +80,7 @@ const api = [
   },
 
   {
-    picture: "pictures/con-duong-hoi-giao.jpg",
+    picture: "con-duong-hoi-giao.jpg",
     title: "Con đường Hồi giáo",
     author: "Nguyễn Phương Mai",
     review:
@@ -88,7 +88,7 @@ const api = [
   },
 
   {
-    picture: "pictures/viet-nam-su-luoc.jpg",
+    picture: "viet-nam-su-luoc.jpg",
     title: "Việt Nam Sử Lược",
     author: "Trần Trọng Kim",
     reivew:
@@ -96,7 +96,7 @@ const api = [
   },
 
   {
-    picture: "pictures/rung-na-uy.jpg",
+    picture: "rung-na-uy.jpg",
     title: "Rừng Na-uy",
     author: "Haruka Murakami",
     review:
@@ -104,7 +104,7 @@ const api = [
   },
 
   {
-    picture: "pictures/fight-club.jpg",
+    picture: "fight-club.jpg",
     title: "Fight Club",
     author: "Chuck Palahniuk",
     review:
@@ -112,7 +112,7 @@ const api = [
   },
 
   {
-      picture: "pictures/siddhartha.jpg",
+      picture: "siddhartha.jpg",
       title: "Siddhartha",
       author: "Hermann Hesse",
       review:
@@ -120,7 +120,7 @@ const api = [
   },
 
   {
-      picture: "pictures/long-walk-to-freedom.jpg",
+      picture: "long-walk-to-freedom.jpg",
       title: "Long Walk to Freedom",
       author: "Nelson Mandela",
       review:
@@ -128,7 +128,7 @@ const api = [
   },
 
    {
-      picture: "pictures/the-rational-optimist.jpg",
+      picture: "the-rational-optimist.jpg",
       title: "The Rational Optimist: How Prosperity Evolves",
       author: "Matt Ridley",
       review:
@@ -136,7 +136,7 @@ const api = [
   },
 
    {
-      picture: "pictures/the-snowball-warren-buffet-and-the-business-of-life.jpg",
+      picture: "the-snowball-warren-buffet-and-the-business-of-life.jpg",
       title: "The Snowball: Warren Buffett and the Business of Life",
       author: "Alice Schroeder",
       review:
@@ -144,7 +144,7 @@ const api = [
   },
 
    {
-      picture: "pictures/chinh-de-viet-nam.jpg",
+      picture: "chinh-de-viet-nam.jpg",
       title: "Chính đề Việt Nam",
       author: "Ngô Đình Nhu",
       review: 
@@ -152,7 +152,7 @@ const api = [
   },
 
    {
-      picture: "pictures/the-innovators.jpg",
+      picture: "the-innovators.jpg",
       title: "The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",
       author: "Walter Isaacson",
       review:
@@ -160,7 +160,7 @@ const api = [
   },
 
    {
-      picture: "pictures/mindset.jpg",
+      picture: "mindset.jpg",
       title: "Mindset: The New Psychology of Success",
       author: "Carol S. Dweck",
       review:
@@ -168,7 +168,7 @@ const api = [
   },
 
    {
-      picture: "pictures/the-alchemist.jpg",
+      picture: "the-alchemist.jpg",
       title: "The Alchemist",
       author: "Paulo Coelho",
       review:
@@ -176,7 +176,7 @@ const api = [
   },
 
    {
-      picture: "pictures/what-i-wish-i-knew-when-i-was-20.jpg",
+      picture: "what-i-wish-i-knew-when-i-was-20.jpg",
       title: "What I Wish I Knew When I Was 20",
       author: "Tina Seelig",
       review:
@@ -184,7 +184,7 @@ const api = [
   },
 
    {
-      picture: "pictures/man-search-for-meaning.jpg",
+      picture: "man-search-for-meaning.jpg",
       title: "Man's Search for Meaning",
       author: "Victor Frankl",
       review:
@@ -192,7 +192,7 @@ const api = [
   },
 
    {
-      picture: "pictures/tren-duong-bang.jpg",
+      picture: "tren-duong-bang.jpg",
       title: "Trên Đường Băng",
       author: "Tony Buổi Sáng",
       review:
@@ -200,7 +200,7 @@ const api = [
   },
 
    {
-      piture: "pictures/song-hanh-phuc.jpg",
+      piture: "song-hanh-phuc.jpg",
       title: "Sống Hạnh Phúc",
       author: "Dalai Lama XIV",
       review:
@@ -208,7 +208,7 @@ const api = [
   },
 
    {
-      picture: "pictures/anh-den-giua-hai-dai-duong.jpg",
+      picture: "anh-den-giua-hai-dai-duong.jpg",
       title: "Ánh Đèn Giữa Hai Đại Dương",
       author: "M.L. Stedman",
       review:
@@ -216,7 +216,7 @@ const api = [
   },
 
    {
-      picture: "pictures/the-sign-of-four.jpg",
+      picture: "the-sign-of-four.jpg",
       title: "The Sign of Four",
       author: " Arthur Conan Doyle",
       review:
@@ -224,7 +224,7 @@ const api = [
   },
 
    {
-      picture: "pictures/sat-thu-dau-mung-mu.jpg",
+      picture: "sat-thu-dau-mung-mu.jpg",
       title: "Sát thủ đầu mưng mủ",
       author: "Thành Long",
       review:
@@ -232,7 +232,7 @@ const api = [
   },
 
    {
-      picture: "pictures/the-gioi-cua-sophie.jpg",
+      picture: "the-gioi-cua-sophie.jpg",
       title: "Thế giới của Sophie",
       author: "Jostein Gaarder",
       review:
@@ -240,7 +240,7 @@ const api = [
   },
 
    {
-      picture: "pictures/meditations.jpg",
+      picture: "meditations.jpg",
       title: "Meditations",
       author: "Marcus Aurelius",
       review: 
