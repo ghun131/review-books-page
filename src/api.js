@@ -40,7 +40,7 @@ const api = [
   },
 
   {
-    picture: "toi-noi-gi-khi-toi-noi-ve-chay-bo.jpg",
+    picture: "toi-noi-gi-khi-noi-ve-chay-bo.jpg",
     title: "Tôi nói gì khi tôi nói về chạy bộ",
     author: "Haruki Murakami",
     review:
