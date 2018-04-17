@@ -20,9 +20,7 @@ export default class BooksList extends Component {
 
     firstCol = smallerArr(firstCol, 0);
     secondCol = smallerArr(secondCol, 1);
-
-    console.log(firstCol);
-    console.log(secondCol);*/
+*/
 
     return (
       <span>
